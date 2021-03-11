@@ -6,7 +6,7 @@ You must have composer installed in your machine
 ## Steps
 - Clone the application
 - `cd` into the app folder 
-- Run composer install 
+- Run `composer install`
 - Rename `.env.example` to `.env`
 - Add values to the following variales
     - `DB_CONNECTION=`
